@@ -7,7 +7,7 @@ Requires the following mods:<br>
 https://modrinth.com/mod/variants-cit<br>
 https://modrinth.com/mod/entity-model-features<br>
 https://modrinth.com/mod/continuity
-
+<pre>
 Features:
 moss in the end looks like end grass from mc dungeons
 better language file
@@ -26,7 +26,7 @@ custom dtrial ice pick
 reworked eof icons
 crown uses vtweaks texture
 banknotes have custom texture
-
+</pre>
 Orignal README:
 
 # Dragonspeak
