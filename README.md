@@ -3,6 +3,30 @@ CHECK IT OUT HERE: https://github.com/WOFTNW/Dragonspeak
 
 This is an overlay for Dragonspeak I am working on.
 
+Requires the following mods:
+https://modrinth.com/mod/variants-cit
+https://modrinth.com/mod/entity-model-features
+https://modrinth.com/mod/continuity
+
+Features:
+moss in the end looks like end grass from mc dungeons
+better language file
+armor trims use unused tribe armor textures
+trident to spear
+quieter enderman noise for when you use xp farm
+reverted villager textures
+more custom bed textures
+custom paintings available w/out commands
+better edragon texture
+pixel consistent elytras
+consistent books to scrolls
+custom cit axe and sword textures from old dragonspeak
+custom diamond tipped spear
+custom dtrial ice pick
+reworked eof icons
+crown uses vtweaks texture
+banknotes have custom texture
+
 Orignal README:
 
 # Dragonspeak
