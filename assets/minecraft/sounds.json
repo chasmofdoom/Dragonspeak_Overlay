@@ -13,5 +13,86 @@
     "sounds": [
       "item/elytra/elytra_loop"
     ]
-  }
+  },
+    "entity.enderman.death": {
+        "sounds": [
+            {
+                "name": "mob\/endermen\/death",
+                "volume": 0.4
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.enderman.death"
+    },
+    "entity.enderman.hurt": {
+        "sounds": [
+            {
+                "name": "mob\/endermen\/hit1",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/endermen\/hit2",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/endermen\/hit3",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/endermen\/hit4",
+                "volume": 0.4
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.enderman.hurt"},
+        "entity.enderman.scream": {
+            "sounds": [
+                {
+                    "name": "mob\/endermen\/scream1",
+                    "volume": 0.4
+                },
+                {
+                    "name": "mob\/endermen\/scream2",
+                    "volume": 0.4
+                },
+                {
+                    "name": "mob\/endermen\/scream3",
+                    "volume": 0.4
+                },
+                {
+                    "name": "mob\/endermen\/scream4",
+                    "volume": 0.4
+                }
+            ],
+            "replace": true,
+            "subtitle": "subtitles.entity.enderman.scream"},
+    "entity.ender_dragon.flap": {
+        "sounds": [
+            {
+                "name": "mob\/enderdragon\/wings1",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/enderdragon\/wings2",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/enderdragon\/wings3",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/enderdragon\/wings4",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/enderdragon\/wings5",
+                "volume": 0.4
+            },
+            {
+                "name": "mob\/enderdragon\/wings6",
+                "volume": 0.4
+            }
+        ],
+        "replace": true,
+        "subtitle": "subtitles.entity.ender_dragon.flap"}
 }
