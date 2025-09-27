@@ -1,10 +1,6 @@
 {
   "pack": {
     "pack_format": 46,
-    "supported_formats": {
-        "min_inclusive": 18,
-        "max_inclusive": 46
-    },
-    "description": "Welcome to Wings of Fire!"
+    "description": "The Dragonspeak Overlay Pack. Unofficial."
   }
 }
