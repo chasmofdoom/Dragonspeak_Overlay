@@ -26,6 +26,7 @@ custom dtrial ice pick
 reworked eof icons
 crown uses vtweaks texture
 banknotes have custom texture
+dragon style skeletons
 </pre>
 Orignal README:
 
