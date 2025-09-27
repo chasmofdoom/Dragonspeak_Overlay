@@ -1,4 +1,3 @@
-Variants-CIT
 https://modrinth.com/mod/variants-cit
-Entity Model Features
 https://modrinth.com/mod/entity-model-features
+https://modrinth.com/mod/continuity
