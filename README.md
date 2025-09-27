@@ -4,8 +4,8 @@ CHECK IT OUT HERE: https://github.com/WOFTNW/Dragonspeak
 This is an overlay for Dragonspeak I am working on.
 
 Requires the following mods:
-https://modrinth.com/mod/variants-cit
-https://modrinth.com/mod/entity-model-features
+https://modrinth.com/mod/variants-cit<br>
+https://modrinth.com/mod/entity-model-features<br>
 https://modrinth.com/mod/continuity
 
 Features:
