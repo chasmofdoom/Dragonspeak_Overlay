@@ -1,0 +1,6 @@
+{
+	"type": "custom_name",
+	"items": "minecraft:iron_axe",
+	"modelParent": "minecraft:item/handheld",
+	"modelPrefix": "item/axe/iron/"
+}

@@ -1,0 +1,6 @@
+{
+	"type": "custom_name",
+	"items": "minecraft:diamond_sword",
+	"modelParent": "minecraft:item/handheld",
+	"modelPrefix": "item/diamondtrials/"
+}

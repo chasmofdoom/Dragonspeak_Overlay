@@ -1,0 +1,6 @@
+{
+	"type": "enchantment",
+	"items": "minecraft:paper",
+	"modelPrefix": "item/money/",
+	"modelParent": "minecraft:item/generated"
+}

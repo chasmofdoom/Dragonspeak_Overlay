@@ -1,0 +1,6 @@
+{
+	"type": "custom_name",
+	"items": "minecraft:stone_sword",
+	"modelParent": "minecraft:item/handheld",
+	"modelPrefix": "item/sword/stone/"
+}
