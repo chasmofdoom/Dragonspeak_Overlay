@@ -1,5 +1,6 @@
 credits to the original dragonspeak tpack by bog and iheron
 https://github.com/WOFTNW/Dragonspeak
-credits to vtweaks for dragon original, quieter noises, gold crown, and probably more i forgot
+credits to vtweaks for dragon wing base, quieter noises, gold crown, and probably more i forgot
 https://vanillatweaks.net/picker/resource-packs/
 mojang/microsoft for minecraft dungeons and minecraft
+
