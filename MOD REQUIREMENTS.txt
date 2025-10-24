@@ -1,3 +1,4 @@
 https://modrinth.com/mod/variants-cit
 https://modrinth.com/mod/entity-model-features
 https://modrinth.com/mod/continuity
+https://modrinth.com/mod/serverpack-priority
