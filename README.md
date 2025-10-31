@@ -27,6 +27,7 @@ reworked eof icons
 crown uses vtweaks texture
 banknotes have custom texture
 dragon style skeletons
+Wof theme music replaces disc 11
 </pre>
 Orignal README:
 
