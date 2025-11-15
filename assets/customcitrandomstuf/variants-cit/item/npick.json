@@ -1,0 +1,6 @@
+{
+	"type": "custom_name",
+	"items": "minecraft:netherite_pickaxe",
+	"modelParent": "minecraft:item/handheld",
+	"modelPrefix": "item/npick/"
+}

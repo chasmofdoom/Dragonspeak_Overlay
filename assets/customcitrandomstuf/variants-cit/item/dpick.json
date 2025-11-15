@@ -1,9 +1,6 @@
 {
-	"type": "enchantment",
+	"type": "custom_name",
 	"items": "minecraft:diamond_pickaxe",
-	"modelPrefix": "item/dpick/",
 	"modelParent": "minecraft:item/handheld",
-	"parameters": {
-		"requiredEnchantments": { "efficiency": 6 }
-	}
+	"modelPrefix": "item/dpick/"
 }
