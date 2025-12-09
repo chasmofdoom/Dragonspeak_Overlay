@@ -6,7 +6,9 @@ This is an overlay for Dragonspeak I am working on.
 Requires the following mods:<br>
 https://modrinth.com/mod/variants-cit<br>
 https://modrinth.com/mod/entity-model-features<br>
-https://modrinth.com/mod/continuity
+https://modrinth.com/mod/entity-texture-features<br>
+https://modrinth.com/mod/continuity<br>
+https://modrinth.com/mod/server-pack-unlocker<br>
 <pre>
 Features:
 moss in the end looks like end grass from mc dungeons
@@ -28,6 +30,8 @@ crown uses vtweaks texture
 banknotes have custom texture
 dragon style skeletons
 Wof theme music replaces disc 11
+fixed elytra model
+renaming mobs gives custom textures
 </pre>
 Orignal README:
 
