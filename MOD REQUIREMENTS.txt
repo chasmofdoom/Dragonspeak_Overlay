@@ -1,4 +1,9 @@
 https://modrinth.com/mod/variants-cit
+for seeing custom item textures
 https://modrinth.com/mod/entity-model-features
+https://modrinth.com/mod/entity-texture-features
+for fixing elytra models, switching trident to spear, allowing mob renames
 https://modrinth.com/mod/continuity
+allows custom end
 https://modrinth.com/mod/server-pack-unlocker
+lets you put this overlay on top of dragonspeak
