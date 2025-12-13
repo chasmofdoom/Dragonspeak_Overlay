@@ -9,7 +9,7 @@
 			"translate": [-5, 0, 0],
 			"boxes": [
 				{
-					"coordinates": [-5, -20, 2, 10, 20, 0],
+					"coordinates": [-5, -20, 4, 10, 20, 0],
 					"uvNorth": [34, 2, 24, 22],
 					"uvEast": [36, 2, 34, 22],
 					"uvSouth": [46, 2, 36, 22],
@@ -26,7 +26,7 @@
 			"translate": [5, 0, 0],
 			"boxes": [
 				{
-					"coordinates": [-5, -20, 2, 10, 20, 0],
+					"coordinates": [-5, -20, 4, 10, 20, 0],
 					"uvNorth": [24, 2, 34, 22],
 					"uvEast": [22, 2, 24, 22],
 					"uvSouth": [36, 2, 46, 22],
