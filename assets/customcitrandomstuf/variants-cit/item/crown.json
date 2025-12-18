@@ -1,6 +1,0 @@
-{
-	"context": "equippable",
-	"type": "custom_name",
-	"items": "minecraft:netherite_helmet",
-	"modelPrefix": "crowns/"
-}
