@@ -1,7 +1,6 @@
 {
-	"type": "custom_name",
 	"context": "equippable",
+	"type": "custom_name",
 	"items": "minecraft:netherite_helmet",
-	"assetGen": "equipment/armor",
 	"modelPrefix": "crowns/"
 }
