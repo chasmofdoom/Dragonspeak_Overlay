@@ -7,11 +7,9 @@ Requires the following mods:<br>
 https://modrinth.com/mod/variants-cit<br>
 https://modrinth.com/mod/entity-model-features<br>
 https://modrinth.com/mod/entity-texture-features<br>
-https://modrinth.com/mod/continuity<br>
 https://modrinth.com/mod/server-pack-unlocker<br>
 <pre>
 Features:
-moss in the end looks like end grass from mc dungeons
 better language file
 armor trims use unused tribe armor textures
 trident to spear
@@ -32,6 +30,7 @@ dragon style skeletons
 Wof theme music replaces disc 11
 fixed elytra model
 renaming mobs gives custom textures
+custom cit elytra textures
 </pre>
 Orignal README:
 
