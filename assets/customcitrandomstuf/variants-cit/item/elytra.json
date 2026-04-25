@@ -1,0 +1,15 @@
+{
+  "context": "equippable",
+  "type": "custom_name",
+  "items": ["minecraft:elytra"],
+  "modelPrefix": "wings/overlay_custom/",
+  "parameters": {
+    "scale": 100
+  }
+}
+
+
+
+
+
+

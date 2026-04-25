@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "minecraft:overlay_custom/monarch",
+        "use_player_texture": false
+      }
+    ]
+  }
+}
