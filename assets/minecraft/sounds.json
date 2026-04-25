@@ -9,11 +9,6 @@
       "fireworks/launch6"
     ]
   },
-  "item.elytra.flying": {
-    "sounds": [
-      "item/elytra/elytra_loop"
-    ]
-  },
     "entity.enderman.death": {
         "sounds": [
             {
