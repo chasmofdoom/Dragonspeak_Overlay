@@ -18,9 +18,9 @@ reverted villager textures
 more custom bed textures
 custom paintings available w/out commands
 better edragon texture
-pixel consistent elytras
+pixel consistent elytras (except for staff, event, and pantalan wings)
 consistent books to scrolls
-custom cit axe and sword textures from old dragonspeak
+better custom weapons
 custom diamond tipped spear
 custom dtrial ice pick
 reworked eof icons
@@ -29,7 +29,7 @@ banknotes have custom texture
 dragon style skeletons
 Wof theme music replaces disc 11
 fixed elytra model
-renaming mobs gives custom textures
+renaming some mobs gives custom textures (battrick, dragonbite viper)
 custom cit elytra textures
 </pre>
 Orignal README:
