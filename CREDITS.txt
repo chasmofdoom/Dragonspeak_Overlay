@@ -2,6 +2,8 @@ credits to the original dragonspeak tpack by bog and iheron
 https://github.com/WOFTNW/Dragonspeak
 credits to vtweaks for quieter noises and gold crown
 https://vanillatweaks.net/picker/resource-packs/
+credits to TransparencyFix by BrandonItaly
+https://modrinth.com/resourcepack/transparency-fix
 mojang/microsoft for minecraft dungeons and minecraft
 
 keagyfans for wof theme music

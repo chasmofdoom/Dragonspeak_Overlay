@@ -1,0 +1,9 @@
+{
+	"type": "enchantment",
+	"items": "minecraft:trident",
+	"modelPrefix": "item/itrident/",
+	"assetGen": "item_model/trident",
+	"parameters": {
+		"requiredEnchantments": { "sharpness": 5 }
+	}
+}

@@ -1,6 +1,9 @@
 {
-	"type": "custom_name",
+	"type": "enchantment",
 	"items": "minecraft:netherite_pickaxe",
 	"modelParent": "minecraft:item/handheld",
-	"modelPrefix": "item/npick/"
+	"modelPrefix": "item/npick/",
+	"parameters": {
+		"requiredEnchantments": { "efficiency": 6 }
+	}
 }

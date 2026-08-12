@@ -1,0 +1,9 @@
+{
+	"type": "enchantment",
+	"items": "minecraft:crossbow",
+	"modelPrefix": "item/gbow/",
+	"assetGen": "item_model/crossbow",
+	"parameters": {
+		"requiredEnchantments": { "piercing": 5 }
+	}
+}
