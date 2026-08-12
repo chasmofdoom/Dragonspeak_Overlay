@@ -4,6 +4,7 @@
   "items": ["minecraft:iron_chestplate"],
   "modelPrefix": "aegis/",
   "parameters": {
-		"requiredEnchantments": { "protection": 5 }
+		"requiredEnchantments": { "protection": 5 },
+    "scale": 100
 	}
 }
