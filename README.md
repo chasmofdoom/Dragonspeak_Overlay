@@ -5,7 +5,6 @@ This is an overlay for Dragonspeak I am working on.
 
 Requires the following mods:<br>
 https://modrinth.com/mod/variants-cit<br>
-https://modrinth.com/mod/entity-model-features<br>
 https://modrinth.com/mod/entity-texture-features<br>
 https://modrinth.com/mod/server-pack-unlocker<br>
 <pre>
@@ -28,7 +27,6 @@ crown uses vtweaks texture
 banknotes have custom texture
 dragon style skeletons
 Wof theme music replaces disc 11
-fixed elytra model
 renaming some mobs gives custom textures (battrick, dragonbite viper)
 custom cit elytra textures
 </pre>
