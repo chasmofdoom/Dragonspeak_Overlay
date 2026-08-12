@@ -1,7 +1,7 @@
 {
   "type": "enchantment",
   "items": "minecraft:chainmail_helmet",
-  "modelPrefix": "item/frost_helmet/",
+  "modelPrefix": "item/diamond_trial/frostcrest/helmet_",
   "modelParent": "minecraft:item/generated",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 }

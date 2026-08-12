@@ -1,7 +1,7 @@
 {
   "type": "enchantment",
   "items": "minecraft:chainmail_boots",
-  "modelPrefix": "item/frost_boots/",
+  "modelPrefix": "item/diamond_trial/frostcrest/boots_",
   "modelParent": "minecraft:item/generated",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 }

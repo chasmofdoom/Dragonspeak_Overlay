@@ -1,7 +1,7 @@
 {
   "type": "enchantment",
   "items": "minecraft:chainmail_leggings",
-  "modelPrefix": "item/frost_leggings/",
+  "modelPrefix": "item/diamond_trial/frostcrest/leggings_",
   "modelParent": "minecraft:item/generated",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 }

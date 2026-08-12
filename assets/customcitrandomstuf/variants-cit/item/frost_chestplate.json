@@ -1,7 +1,7 @@
 {
   "type": "enchantment",
   "items": "minecraft:chainmail_chestplate",
-  "modelPrefix": "item/frost_chestplate/",
+  "modelPrefix": "item/diamond_trial/frostcrest/chestplate_",
   "modelParent": "minecraft:item/generated",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 }

@@ -1,6 +1,0 @@
-{
-	"type": "custom_name",
-	"items": "minecraft:iron_ingot",
-	"modelParent": "minecraft:item/generated",
-	"modelPrefix": "item/steel/"
-}

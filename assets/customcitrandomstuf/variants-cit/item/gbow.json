@@ -1,9 +1,10 @@
 {
 	"type": "enchantment",
 	"items": "minecraft:crossbow",
-	"modelPrefix": "item/diamond_trial/gbow/",
-	"assetGen": "item_model/crossbow",
+	"assetGen":"item_model/crossbow",
+	"modelPrefix": "item/gbow/",
 	"parameters": {
-		"requiredEnchantments": { "piercing": 5 }
+		"requiredEnchantments": { "piercing": 5 },
+		"scale": 100
 	}
 }
