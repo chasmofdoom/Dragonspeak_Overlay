@@ -1,0 +1,9 @@
+{
+  "type": "enchantment",
+  "items": "minecraft:iron_chestplate",
+  "modelPrefix": "item/aegis/",
+  "modelParent": "minecraft:item/generated",
+  "parameters": {
+		"requiredEnchantments": { "protection": 5 }
+	}
+}
