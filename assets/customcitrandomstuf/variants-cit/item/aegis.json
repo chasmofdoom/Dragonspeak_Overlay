@@ -1,8 +1,7 @@
 {
   "context": "equippable",
   "type": "enchantment",
-  "assetGen":"equipment_humanoid",
-  "items": ["minecraft:iron_chestplate"],
+  "items": "minecraft:iron_chestplate",
   "modelPrefix": "aegis/",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 },
