@@ -2,7 +2,7 @@
 	"type": "enchantment",
 	"items": "minecraft:netherite_pickaxe",
 	"modelParent": "minecraft:item/handheld",
-	"modelPrefix": "item/npick/",
+	"modelPrefix": "item/diamond_trial/npick_",
 	"parameters": {
 		"requiredEnchantments": { "efficiency": 6 }
 	}

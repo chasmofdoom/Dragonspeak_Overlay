@@ -1,7 +1,7 @@
 {
   "type": "enchantment",
-  "items": "minecraft:iron_chestplate",
-  "modelPrefix": "item/diamond_trial/aegis_",
+  "items": "minecraft:chainmail_leggings",
+  "modelPrefix": "item/frost_leggings/",
   "modelParent": "minecraft:item/generated",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 }

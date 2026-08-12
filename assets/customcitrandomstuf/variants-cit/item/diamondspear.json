@@ -2,5 +2,5 @@
 	"type": "custom_name",
 	"items": "minecraft:diamond_sword",
 	"modelParent": "minecraft:item/handheld",
-	"modelPrefix": "item/diamondtrials/"
+	"modelPrefix": "item/diamond_trial/tipped/"
 }

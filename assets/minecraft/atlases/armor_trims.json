@@ -39,7 +39,8 @@
                 "trims/entity/humanoid_leggings/flow",
                 "trims/entity/humanoid/bolt",
                 "trims/entity/humanoid_leggings/bolt",
-				"minecraft:trims/entity/humanoid/aegis_trim/protection__5"
+				"minecraft:trims/entity/humanoid/aegis_trim/protection__5",
+                "minecraft:trims/entity/humanoid_leggings/aegis_trim/protection__5"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
