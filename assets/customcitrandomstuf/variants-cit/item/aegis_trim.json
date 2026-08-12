@@ -1,11 +1,11 @@
 {
   "hook": "trim_pattern",
   "type": "enchantment",
-  "items": "minecraft:iron_chestplate",
+  "items": ["minecraft:iron_chestplate", "minecraft:chainmail_leggings", "minecraft:chainmail_chestplate", "minecraft:chainmail_boots", "chainmail_helmet"],
   "assetGen":"trim_pattern/humanoid",
   "modelPrefix": "aegis_trim/",
   "parameters": {
-		"requiredEnchantments": { "protection": 5 },
+		"levelSeparator": "__",
     "scale": 100
 	}
 }

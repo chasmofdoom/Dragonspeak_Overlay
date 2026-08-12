@@ -1,0 +1,11 @@
+{
+  "context": "equippable",
+  "type": "enchantment",
+  "items": ["minecraft:chainmail_leggings", "minecraft:chainmail_chestplate", "minecraft:chainmail_boots", "chainmail_helmet"],
+  "assetGen":"equipment/humanoid",
+  "modelPrefix": "frostcrest/",
+  "parameters": {
+		"requiredEnchantments": { "protection": 5 },
+    "scale": 100
+	}
+}
