@@ -22,7 +22,7 @@ pixel consistent elytras (except for staff, event, and pantalan wings)
 consistent books to scrolls
 better custom weapons
 custom diamond tipped spear
-custom dtrial ice pick
+custom dtrial textures
 reworked eof icons
 crown uses vtweaks texture
 banknotes have custom texture
