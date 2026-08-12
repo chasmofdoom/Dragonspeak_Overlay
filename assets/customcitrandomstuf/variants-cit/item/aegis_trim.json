@@ -1,9 +1,9 @@
 {
-  "context": "equippable",
+  "hook": "trim_pattern",
   "type": "enchantment",
   "items": "minecraft:iron_chestplate",
-  "assetGen":"equipment/humanoid",
-  "modelPrefix": "aegis/",
+  "assetGen":"trim_pattern/humanoid",
+  "modelPrefix": "aegis_trim/",
   "parameters": {
 		"requiredEnchantments": { "protection": 5 },
     "scale": 100
